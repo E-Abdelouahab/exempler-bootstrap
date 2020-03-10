@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+
+.gird1{
+    background-color: #E2E6EB;
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.gird2{
+    background-color: #E2E6EB;
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+}
+.gird3{
+    background-color: #E2E6EB;
+   
+    height: 500px;
+    border-radius: 20px;
+ 
+}
+
+.gird4{
+    background-color: #E2E6EB;
+   
+    height: 300px;
+    border-radius: 20px;
+
+}
+.gird5{
+    background-color: #E2E6EB;
+   
+    height: 350px;
+    border-radius: 20px;
+
+}
+.gird6{
+    background-color: #E2E6EB;
+   
+    height: 350px;
+    border-radius: 20px;
+}
+
+.gird7{
+    background-color: #E2E6EB;
+    height: 350px;
+    border-radius: 20px;
+}
+.gird8{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px;
+}
+
+.gird9{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px;
+}
+
+
+
+
+/* start page grid 8*/
+.grid10{
+    background-color: #E2E6EB;
+    height: 250px;
+    border-radius: 20px; 
+}
+.grid11{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px; 
+}
+.grid12{
+    background-color: #E2E6EB;
+    height: 250px;
+    border-radius: 20px; 
+}
+.grid13{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px; 
+}
+.grid14{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px; 
+}
+.grid15{
+    display: flex;
+   align-items: flex-end;
+    background-color: #E2E6EB;
+    height: 250px;
+    border-radius: 20px; 
+}
+.grid16{
+    background-color: #E2E6EB;
+    height: 600px;
+    border-radius: 20px; 
+}
+.grid17{
+    background-color: #E2E6EB;
+    height: 250px; 
+    border-radius: 20px; 
+}
+
+/* end page grid 8*/
+
+
+.gird18{
+    background-color: #E2E6EB;
+    height: 200px; 
+    border-radius: 20px; 
+}
+
+.gird19{
+    background-color: #E2E6EB;
+    height: 250px; 
+    border-radius: 20px; 
+}
+
+.gird20{
+    background-color: #E2E6EB;
+    height: 150px; 
+    border-radius: 20px;  
+}
+
+.gird21{
+    background-color: #E2E6EB;
+    height: 120px; 
+    border-radius: 20px; 
+}
